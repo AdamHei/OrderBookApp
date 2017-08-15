@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrderBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="bid">Bid</string>
+    <string name="amount">amount</string>
+    <string name="price">price</string>
+    <string name="dollar_amount">$ %s</string>
+    <string name="last_price">Last price</string>
+    <string name="usd_spread">USD Spread</string>
+</resources>
